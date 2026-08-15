@@ -12,7 +12,7 @@ Port of [AutoHotkey Plus Plus for VS Code](https://github.com/mark-wiemer-org/ah
 
 ## Installation
 
-To install `language-ahkpp` search for [language-ahkpp](https://web.pulsar-edit.dev/packages/language-ahkpp) in the Install pane of the Pulsar settings or run `ppm install language-ahkpp`. Alternatively, you can run `ppm install asiloisad/pulsar-language-ahkpp` to install a package directly from the GitHub repository.
+To install `language-ahkpp` search for [language-ahkpp](https://web.pulsar-edit.dev/packages/language-ahkpp) in the Install pane of the Pulsar settings or run `ppm install language-ahkpp`. Alternatively, you can run `ppm install asiloisad-pulsar/language-ahkpp` to install a package directly from the GitHub repository.
 
 ## Contributing
 
