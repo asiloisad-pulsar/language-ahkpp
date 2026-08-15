@@ -1,7 +1,7 @@
 {
   "name": "language-ahkpp",
   "description": "Syntax highlighting for AutoHotkey v1 and v2",
-  "repository": "https://github.com/asiloisad/pulsar-language-ahkpp",
+  "repository": "https://github.com/asiloisad-pulsar/language-ahkpp",
   "keywords": [
     "ahkpp",
     "language"
