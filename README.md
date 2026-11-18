@@ -2,6 +2,9 @@
 
 Syntax highlighting for AutoHotkey v1 and v2. Provides separate grammars for both versions with automatic detection.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [language-ahkpp](https://github.com/lumine-code/language-ahkpp).
+
 Port of [AutoHotkey Plus Plus for VS Code](https://github.com/mark-wiemer-org/ahkpp)
 
 ## Features
